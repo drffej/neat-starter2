@@ -14,7 +14,9 @@ tags:
 
 ## This is a Heading h2
 
-![src/static/img/ellipse-5ellipse-blue.png]
+![](/static/img/icon.svg)
+
+![](src/static/img/ellipse-5ellipse-blue.png)
 
 ###### This is a Heading h6
 
